@@ -1,1 +1,1 @@
-RabbitMQ example
+WE ARE KINGS
